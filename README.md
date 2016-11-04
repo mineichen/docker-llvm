@@ -1,2 +1,2 @@
 # docker-llvm
-LLVM build container
+LLVM-clang build container template for hub.docker.com autobuild
